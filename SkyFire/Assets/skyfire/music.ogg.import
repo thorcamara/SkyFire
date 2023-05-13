@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/music.ogg-97527530aa3ab6a1e462b4aeee59a697.oggstr"
+
+[deps]
+
+source_file="res://Assets/skyfire/music.ogg"
+dest_files=[ "res://.import/music.ogg-97527530aa3ab6a1e462b4aeee59a697.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
